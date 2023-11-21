@@ -1,7 +1,7 @@
 # FlappyBird
 
 # Description
-Recreation of the Flappy Bird game
+Flappy Bird Clone
 
 # Requirements
 Need to use 'Ready to Program' IDE
