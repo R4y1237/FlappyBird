@@ -13,3 +13,6 @@ Use the link below and select
 
 http://compsci.ca/holtsoft/
 
+# Gameplay
+Menu Screen:
+![image](https://github.com/user-attachments/assets/ed92ba0a-fb3e-468c-ae94-274ea7cebbcc)
